@@ -58,11 +58,6 @@ public class Card extends MouseAdapter{
 		return this.cardLabel;
 	}
 	
-	@Deprecated
-	public int getSomeBitches() {
-		return 0;
-	}
-	
 	public static Card getSelected() {
 		return selected;
 	}
