@@ -1,0 +1,6 @@
+name2 76
+name3 23
+name5 345
+name6 12
+name7 346
+name8 232
